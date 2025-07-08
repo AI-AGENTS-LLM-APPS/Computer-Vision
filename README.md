@@ -14,4 +14,4 @@ Face Mesh: Detects facial landmarks and overlays a mesh on the face in real time
 Face Detection: Detects faces in the webcam feed.
 
 Tools Used: Python, OpenCV, MediaPipe
-Purpose: Practiced real-time hand tracking, gesture control, face mesh generation, and face detection.
+Purpose: Practiced real-time hand tracking, gesture control, face mesh generation,and face detection.
