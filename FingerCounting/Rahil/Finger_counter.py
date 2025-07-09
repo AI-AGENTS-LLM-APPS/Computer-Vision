@@ -11,7 +11,6 @@ cap.set(4,Cam)
 
 folder = "FingerImages"
 myList = os.listdir(folder)
-# print(myList)
 ptime = 0
 overlayList = []
 
