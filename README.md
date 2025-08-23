@@ -5,6 +5,8 @@ This is a basic computer vision project where I used MediaPipe and OpenCV to cre
 
 Volume Hand Changer: Control your system’s volume using hand gestures by measuring the distance between fingers.
 
+Volume Mouth Controller: Control ur system volume by opening ur mouth as big as possible.
+
 AI Trainer: A simple trainer that uses pose or hand tracking to guide movements.
 
 Finger Counter: Counts how many fingers are up using real-time hand landmarks.
